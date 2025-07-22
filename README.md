@@ -1,5 +1,5 @@
 # SNAKE-EATING-ALPHABET-GAME
-This game is made for delta_task 1 for web development domain as a part of task submission.
+web development game for playing 
 This game is created with pure vanilla Javascript and no html canvas is used.
 Snake is roaming and eating letters of english alphabet in sequence order as displayed in word to find.
 score for each correct word formed is 5 if snake mistakenly eat other letter of english alphabet means it gets 1 score 
